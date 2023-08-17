@@ -6,3 +6,5 @@ Currently, I am a freelance data consultant where I empower my small business cl
 Amidst the pandemic, fueled by my extra time and a growing dissatisfaction with the inadequate focus on women's sports, I took action and played a pivotal role in the creation of a fantasy sports web app dedicated exclusively to women's sports. Our platform hosts captivating fantasy competitions for both the NWSL and the Olympics, with more coming soon!
 
 I'm also a mom, runner, and USWNT fanatic. ⚽️🇺🇸
+
+See more of my work at www.natalierelich.com
